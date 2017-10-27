@@ -54,9 +54,9 @@ title = "Rune"
   [[params.mission.item]]
     weight = 2
     name = "powerful"
-    title = "Powerful features"
-    subtitle = "Manage multiple websites with Rune"
-    description = "<p>Manage multiple websites from one location with the Rune CMS.</p><ul class='checked'><li>Manage multiple websites from one admin</li><li>Easily add and remove websites</li><li>Share content between websites</li></ul>"
+    title = "Powerful"
+    subtitle = ""
+    description = "<p>Rune is the first CMS to move at the pace of the newsroom. Bring all of your content into one place and publish faster than ever.</p><ul class='checked'><li>Curate visually appealing content fast</li><li><Publish across multiple sites with ease</li></ul>"
 
 # Services section
 [params.services]
@@ -67,32 +67,32 @@ title = "Rune"
   description = "The features supported by the Rune CMS"
 
   [[params.services.item]]
-    icon = "fa-clone"
+    icon = "fa fa-clone"
     title = "Multi-site"
     description = "Multi-site support with sharable content"
 
   [[params.services.item]]
-    icon = "fa-paper-plane"
+    icon = "fa fa-paper-plane"
     title = "Fast"
     description = "Thanks to Go and gRPC, Rune is the fastest CMS on the market"
 
   [[params.services.item]]
-    icon = "fa-pencil"
+    icon = "fa fa-pencil"
     title = "Rich Editing"
     description = "Our home-grown content creation interface provides users with a rich user experience"
 
   [[params.services.item]]
-    icon = "fa-users"
+    icon = "fa fa-users"
     title = "Subscription management"
     description = "Manage digital subscriptions & accept recurring payments from within Rune"
 
   [[params.services.item]]
-    icon = "fa-support"
+    icon = "fa fa-support"
     title = "Customer Support"
     description = "Manage basic customer support features from within Rune, or create webhooks for external services"
 
   [[params.services.item]]
-    icon = "fa-code-fork"
+    icon = "fa fa-code-fork"
     title = "Open Source"
     description = "We want to give back to the community that has given so much. Rune would not be possible without open source software."
 
@@ -148,7 +148,7 @@ title = "Rune"
   description = ""
 
   [[params.team.item]]
-    name = "Mat Costa"
+    name = "Mat"
     position = "Project Manager"
     description = ""
     img = "images/person1.jpg"
