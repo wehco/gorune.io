@@ -155,7 +155,7 @@ title = "Rune"
     twitter = "https://twitter.com/mwcosta"
 
   [[params.team.item]]
-    name = "Jason Hutchinson"
+    name = "Jason"
     position = "Developer"
     description = ""
     img = "images/person2.jpg"
@@ -163,7 +163,7 @@ title = "Rune"
     github = "http://github.com/zikes"
 
   [[params.team.item]]
-    name = "Michael Cale"
+    name = "Michael"
     position = "Developer"
     description = ""
     img = "images/person3.jpg"
@@ -171,7 +171,7 @@ title = "Rune"
     github = "https://github.com/michaelcale"
 
   [[params.team.item]]
-    name = "Kevin Minehart"
+    name = "Kevin"
     position = "Developer"
     description = ""
     img = "images/person3.jpg"
@@ -182,7 +182,7 @@ title = "Rune"
 [params.careers]
   enable = true
   title = "We're hiring"
-  description = "<div>Send resumes, cover letters, and an optional portfolio to jobs@wehco.com</div><div>Benefits include:<ul><li>Remote work hours</li><li>And uh.. other things too</li></ul>"
+  description = "<div>Send resumes, cover letters, and an optional portfolio to jobs@wehco.com</div>"
 
   [[params.careers.item]]
   title = "Front-end developer"
