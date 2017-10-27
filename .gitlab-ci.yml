@@ -4,7 +4,7 @@ image: kminehart/hugo:latest
 
 pages:
   script:
-  - hugo
+  - /hugo
   artifacts:
     paths:
     - public
@@ -13,6 +13,6 @@ pages:
   
 test:
   script:
-  - hugo
+  - /hugo
   except:
   - master
