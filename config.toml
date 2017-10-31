@@ -15,7 +15,7 @@ title = "Rune"
 # Navigation section
 [params.nav]
   mission = "Our Mission"
-  services = "Technology"
+  services = "Features"
   team = "The Team"
   careers = "Careers"
   # Include logo instead if HOME:
@@ -45,18 +45,18 @@ title = "Rune"
     description = "<p>We don't want our users to worry about their systems or operations. Rune offers a set-it-and-forget-it solution. As your website grows, so will your installation.</p><ul class='checked'><li>Automatic scaling w/ Kubernetes</li></ul>"
 
   [[params.mission.item]]
-    weight = 3
+    weight = 2
     name = "speed"
     title = "Speed"
     subtitle = "News websites are some of the slowest to load. With Rune, we want to bring news to the 21st century."
     description = "<p>We're focused on making sure our websites are as fast as possible. A single news article should not take 8 seconds to load.</p><ul class='checked'><li>Dynamic content w/ Polymer</li><li>Fast service communication w/ gRPC</li></ul>"
 
   [[params.mission.item]]
-    weight = 2
+    weight = 3
     name = "powerful"
     title = "Powerful"
     subtitle = ""
-    description = "<p>Rune is the first CMS to move at the pace of the newsroom. Bring all of your content into one place and publish faster than ever.</p><ul class='checked'><li>Curate visually appealing content fast</li><li><Publish across multiple sites with ease</li></ul>"
+    description = "<p>Rune is the first CMS to move at the pace of the newsroom. Bring all of your content into one place and publish faster than ever.</p><ul class='checked'><li>Curate visually appealing content fast</li><li>Publish across multiple sites with ease</li></ul>"
 
 # Services section
 [params.services]
@@ -94,7 +94,7 @@ title = "Rune"
   [[params.services.item]]
     icon = "fa fa-code-fork"
     title = "Open Source"
-    description = "We want to give back to the community that has given so much. Rune would not be possible without open source software."
+    description = "Rune will be open source and available to the community, under the AGPL license"
 
 
 # Work section
@@ -151,14 +151,14 @@ title = "Rune"
     name = "Mat"
     position = "Project Manager"
     description = ""
-    img = "images/person1.jpg"
+    img = "images/mat.jpg"
     twitter = "https://twitter.com/mwcosta"
 
   [[params.team.item]]
     name = "Jason"
     position = "Developer"
     description = ""
-    img = "images/person2.jpg"
+    img = "images/jason.jpg"
     twitter = "https://twitter.com/zikes"
     github = "http://github.com/zikes"
 
@@ -166,7 +166,7 @@ title = "Rune"
     name = "Michael"
     position = "Developer"
     description = ""
-    img = "images/person3.jpg"
+    img = "images/michael.jpg"
     twitter = "https://twitter.com/@michaelcale"
     github = "https://github.com/michaelcale"
 
@@ -174,7 +174,7 @@ title = "Rune"
     name = "Kevin"
     position = "Developer"
     description = ""
-    img = "images/person3.jpg"
+    img = "images/kevin.jpg"
     twitter = "https://twitter.com/klminehart"
     github = "http://github.com/kminehart"
 
