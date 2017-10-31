@@ -1,5 +1,5 @@
 theme = "hugo-icon"
-baseURL = "https://www.gorune.io/"
+baseURL = "http://www.gorune.io/"
 languageCode = "en-US"
 title = "Rune"
 
